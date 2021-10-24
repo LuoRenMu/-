@@ -3,5 +3,4 @@
 
 但是它能有效执行12-14关卡经验刷取 你可以在 config文件中的注释看到它的默认关卡执行次数 你也可以对此进行修改
 
-使用它 你需要安装 python-opencv aircv numpy pyautogui Piliow win32api pywin32 
 
