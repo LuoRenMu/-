@@ -11,7 +11,7 @@ import time
 from windowRect import windowRect
 import ctypes
 
-objdll= ctypes.windll.LoadLibrary('./msdk.dll') #此处是易键鼠程序载入 可将金币领取更改为系统api调用
+objdll= ctypes.windll.LoadLibrary('./msdk.dll') #此处是易键鼠程序载入 可将金币领取更改为系统api调用 因为会发生点击无效错误所以使用了易键鼠
 hdl = objdll.M_Open(1)
 login_press_img_source = ac.imread("3rd_imges/3rd_login_press_source.png")
 login_xieyi_img_source = ac.imread("3rd_imges/3rd_login_xieyi_source.png")
