@@ -46,7 +46,6 @@ task_12_14_Act4_img = ac.imread("3rd_imges/tast_12_14_overAct4.png")
 task_team_img = ac.imread("3rd_imges/task_team.png")
 task_team_submit_img =ac.imread("3rd_imges/task_team_submit.png")
 task_team_submit_ets_img = ac.imread("3rd_imges/task_team_submit_ets.png")
-i = 0
 #检测游戏是否已启动 如果未启动则 启动
 if bool(win32gui.FindWindow("UnityWndClass", None)) is False:
     i = -3
