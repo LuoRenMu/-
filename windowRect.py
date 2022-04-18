@@ -52,5 +52,5 @@ def windowNewRect():
             gameover()
 
 def gameover():
-    print("============发现游戏已退出,程序结束!============")
+    print("============游戏异常,程序结束!============")
     exit()
