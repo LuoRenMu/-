@@ -1,33 +1,14 @@
 # 你有很多事情可以做 但不是来观看这份大便
 嗯 这是一份初学者的答卷 可以说是烂到狗屎     
       
-&emsp; 
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
           
      
       
